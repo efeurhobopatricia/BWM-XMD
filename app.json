@@ -29,7 +29,7 @@
 "AUTO_REACT_STATUS":
     {
       "description":"Enter yes for your bot to auto react status",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 "ANTICALL":
@@ -54,7 +54,7 @@
     "AUTO_READ_STATUS":
     {
       "description":"Your status will be reading automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"yes",
+      "value":"no",
       "required":false
     }, "AUTO_DOWNLOAD_STATUS":
     {
@@ -85,14 +85,14 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/h2ydge.jpg",
+      "value":"https://files.catbox.moe/z7c67w.jpg",
       "required":false
        
      },
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -109,7 +109,7 @@
     {
       
     "description":"Enter here the number that is hosting the bot Eg, 254xxxxxxx",   
-      "value":"",
+      "value":"2348144250768",
     "required":true
       
     },
@@ -118,11 +118,11 @@
     
     "desc": "Owner name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "𝐄𝐦𝐩𝐢𝐫𝐞 𝐓𝐞𝐜𝐡 [ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 ]"
   },
     "SESSION_ID":{
     "description":"put your session ID , the code you received from from ibrahim adams site",   
-      "value":"",
+      "value":"BWM-XMD;;;H4sIAAAAAAAAA5VUWXOjOBj8L3qFjDkNdlWqFh8DPrHN4cDWPAgQIHMGiWAn5f++hZ1U8rAzm+VJBajV6u6v30BZYYJW6ALGb6Bu8AukqF/SS43AGEzaOEYNYEEEKQRjMDXFRY3aAUycoRJ1HUZ+8OQRx1gG5/S840y64soVH4V59QiuLKjbIMfhHwCL2VxdHHzDqyu032al6JRKfO7U0tT3+gCvLEE1J/Y6nCXhI7j2iBA3uEzmdYoK1MB8hS47iJvv0XdMb3i0L1t9NVsfjqc9swyKCXEGtkOM047sWh3PJusdLcrue/T3J/64dKdaJXt+iXCz0IMoJxtz350O2Yk30dM8DgMtgk5yp09wUqJoEaGSYnr5tu7MQu2KVSaaMzgd+pKkWlPVHm5ltwo26Odcq5jappMidsX994gPcLDzuFcDexvXnz/tDKY4KRejIpmxrOx4UnkjkdFHzw2vfiW+az6ykv0f3eFP+Yie0pnFCZrA8BxNzf1JzolV2KgepMw5HjTq62Jrud/U3T0KbZ4Oqq0ScivGT6LBLFzIC3vDReeWLFOv0IZ24msDYf5JH9K2+RPLLlkZT6LGbZa1MjhtJpxgatvyXGFLF+ZLTr/oiq+ka3G0DsMhPk33LXOxNps1lpqNnu6kQBRaV1byZRdW/EvmQMWfJtrj7UYZuiwiMOavLGhQggltIMVV2b+TeRbA6MVCYYPoTV1gyYLsvnbJMskjfrVu5bKy96u4tjmVUQRuYrbKxly4/EJdPAIW1E0VIkJQZGBCq+ayQYTABBEw/vsXC0p0pnff+tNEngUxbgh1yrbOKxh9mPrxEYZh1ZbUupThtF+gBoy5z9eIUlwmpJexLWETpvgFTVNICRjHMCfoyoIIveAQ9XhAWQ+1c3qybenip+fjbrFxdk9dTzmtyvsvAi8JfKiOHkRpGD1IsgAf1ECIHuRA5SUkIXWkcoAF+H1k+j2/dTA6o9Dgpl1KKF0UwXPmtYRpRGd4cG4u3KVHDYrAmDYtYkEAw6yt7SpD5R9wz1ZZVBPXeoXd7BhvK0JOdtrVw9Fz9gX3bikYv33W1LSKejxv8rS2pK0OWFDcEohvNxcllZckQeaUoToW5L/Ij65XEtb1jxLRHvhd9X5LhCjEOelLeAUtvJn/nK90g1M6XdcWiTZNNPDp0kfa73Hya/41KhkU16Ki2FlobaURb/j+8eDqh05a5p5ZzmbugMnJ47+AgDFIFMFTt4oRvqx5cz0ZaceX9jKzzy4zO2WOl6mrYL9xFOVgifrr6NnZJjnjGuc2CRjiNrQQZ8tB10VOhhNfTdN2biuV1j32p93T8vUwPvFqZeN1sWLKDA72dmUvpb2xhTHGic+hKVS10fM2ardmEdiVXM3bbupCW6KqNjraO6pk5novFbzmOnAr+1C363R/n8NbD+Tv/YtvI/L2nq0Yo1udlbD36D/d+Zpz7sp+AXlvyN9kaXKEUSj6g7IcRgzDycb8hHbRQTi6mXvIQnPqH2d11/HxoA7A9fqLBXUOaVw1RV+kZdRUOAIsyCGh2ueo2rhAhMKiBmNeERWVE4YKz4LiotW1RSH9mHCg9c/6TMD1H0Sijfz8BwAA",
      "required":true
   },
     "WARN_COUNT":
@@ -135,7 +135,7 @@
   {
     "description": "if you don't want startting-bot-message put no else put yes",
     "required": true,
-    "value": "yes"
+    "value": "no"
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
